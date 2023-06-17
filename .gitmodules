@@ -325,31 +325,28 @@
 	url = https://github.com/adafruit/broadcom-peripherals.git
 	branch = main-build
 [submodule "frozen/CircuitPython_seeed_xiao_nRF52840"]
-	path = frozen/CircuitPython_seeed_xiao_nRF52840
+	path = ports/nrf/boards/SAP6/frozen/CircuitPython_seeed_xiao_nRF52840
 	url = https://github.com/furbrain/CircuitPython_seeed_xiao_nRF52840.git
 [submodule "frozen/Adafruit_CircuitPython_Bitmap_Font"]
-	path = frozen/Adafruit_CircuitPython_Bitmap_Font
+	path = ports/nrf/boards/SAP6/frozen/Adafruit_CircuitPython_Bitmap_Font
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font.git
 [submodule "frozen/CircuitPython_laser_egismos"]
-	path = frozen/CircuitPython_laser_egismos
+	path = ports/nrf/boards/SAP6/frozen/CircuitPython_laser_egismos
 	url = https://github.com/furbrain/CircuitPython_laser_egismos.git
 [submodule "frozen/CircuitPython_mag_cal"]
-	path = frozen/CircuitPython_mag_cal
+	path = ports/nrf/boards/SAP6/frozen/CircuitPython_mag_cal
 	url = https://github.com/furbrain/CircuitPython_mag_cal.git
-[submodule "frozen/CircuitPython_RM3100"]
-	path = frozen/CircuitPython_RM3100
-	url = https://github.com/furbrain/CircuitPython_RM3100
 [submodule "frozen/CircuitPython_async_button"]
-	path = frozen/CircuitPython_async_button
+	path = ports/nrf/boards/SAP6/frozen/CircuitPython_async_button
 	url = https://github.com/furbrain/CircuitPython_async_button
 [submodule "frozen/CircuitPython_async_buzzer"]
-	path = frozen/CircuitPython_async_buzzer
+	path = ports/nrf/boards/SAP6/frozen/CircuitPython_async_buzzer
 	url = https://github.com/furbrain/CircuitPython_async_buzzer
 [submodule "frozen/Adafruit_CircuitPython_displayio_SH1106"]
-	path = frozen/Adafruit_CircuitPython_displayio_SH1106
+	path = ports/nrf/boards/SAP6/frozen/Adafruit_CircuitPython_displayio_SH1106
 	url = https://github.com/adafruit/Adafruit_CircuitPython_displayio_SH1106
 [submodule "frozen/Adafruit_CircuitPython_BitmapSaver"]
-	path = frozen/Adafruit_CircuitPython_BitmapSaver
+	path = ports/nrf/boards/SAP6/frozen/Adafruit_CircuitPython_BitmapSaver
 	url = https://github.com/adafruit/Adafruit_CircuitPython_BitmapSaver
 [submodule "ports/silabs/gecko_sdk"]
 	path = ports/silabs/gecko_sdk
@@ -358,41 +355,9 @@
 [submodule "ports/silabs/tools/slc_cli_linux"]
 	path = ports/silabs/tools/slc_cli_linux
 	url = https://github.com/SiliconLabs/circuitpython_slc_cli_linux
-[submodule "ports/raspberrypi/lib/PicoDVI"]
-	path = ports/raspberrypi/lib/PicoDVI
-	url = https://github.com/circuitpython/PicoDVI.git
-	branch = circuitpython
 [submodule "frozen/circuitpython-pcf85063a"]
 	path = frozen/circuitpython-pcf85063a
 	url = https://github.com/bablokb/circuitpython-pcf85063a
 [submodule "frozen/Adafruit_CircuitPython_Wave"]
 	path = frozen/Adafruit_CircuitPython_Wave
 	url = http://github.com/adafruit/Adafruit_CircuitPython_Wave.git
-[submodule "frozen/CircuitPython_seeed_xiao_nRF52840"]
-	path = frozen/CircuitPython_seeed_xiao_nRF52840
-	url = https://github.com/furbrain/CircuitPython_seeed_xiao_nRF52840.git
-[submodule "frozen/Adafruit_CircuitPython_Bitmap_Font"]
-	path = frozen/Adafruit_CircuitPython_Bitmap_Font
-	url = https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font.git
-[submodule "frozen/CircuitPython_laser_egismos"]
-	path = frozen/CircuitPython_laser_egismos
-	url = https://github.com/furbrain/CircuitPython_laser_egismos.git
-[submodule "frozen/CircuitPython_mag_cal"]
-	path = frozen/CircuitPython_mag_cal
-	url = https://github.com/furbrain/CircuitPython_mag_cal.git
-[submodule "frozen/CircuitPython_RM3100"]
-	path = frozen/CircuitPython_RM3100
-	url = https://github.com/furbrain/CircuitPython_RM3100
-[submodule "frozen/CircuitPython_async_button"]
-	path = frozen/CircuitPython_async_button
-	url = https://github.com/furbrain/CircuitPython_async_button
-[submodule "frozen/CircuitPython_async_buzzer"]
-	path = frozen/CircuitPython_async_buzzer
-	url = https://github.com/furbrain/CircuitPython_async_buzzer
-[submodule "frozen/Adafruit_CircuitPython_displayio_SH1106"]
-	path = frozen/Adafruit_CircuitPython_displayio_SH1106
-	url = https://github.com/adafruit/Adafruit_CircuitPython_displayio_SH1106
-[submodule "frozen/Adafruit_CircuitPython_BitmapSaver"]
-	path = frozen/Adafruit_CircuitPython_BitmapSaver
-	url = https://github.com/adafruit/Adafruit_CircuitPython_BitmapSaver
-
