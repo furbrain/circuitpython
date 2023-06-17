@@ -361,3 +361,9 @@
 [submodule "frozen/Adafruit_CircuitPython_Wave"]
 	path = frozen/Adafruit_CircuitPython_Wave
 	url = http://github.com/adafruit/Adafruit_CircuitPython_Wave.git
+[submodule "ports/nrf/boards/SAP6/frozen/--force"]
+	path = ports/nrf/boards/SAP6/frozen/--force
+	url = https://github.com/furbrain/CircuitPython_RM3100.git
+[submodule "ports/nrf/boards/SAP6/frozen/CircuitPython_RM3100"]
+	path = ports/nrf/boards/SAP6/frozen/CircuitPython_RM3100
+	url = https://github.com/furbrain/CircuitPython_RM3100.git
