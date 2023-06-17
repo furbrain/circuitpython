@@ -8,6 +8,9 @@ MCU_CHIP = nrf52840
 
 QSPI_FLASH_FILESYSTEM = 1
 EXTERNAL_FLASH_DEVICES = "P25Q16H"
+# disable serial and ble
+CIRCUITPY_SERIAL_BLE = 0
+CIRCUITPY_BLE_FILE_SERVICE = 0
 FROZEN_MPY_DIRS += $(TOP)/frozen/CircuitPython_async_buzzer
 FROZEN_MPY_DIRS += $(TOP)/frozen/CircuitPython_async_button
 FROZEN_MPY_DIRS += $(TOP)/frozen/CircuitPython_laser_egismos
@@ -25,3 +28,4 @@ FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_BitmapSaver
 FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_BLE
 FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_Register
 FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_BusDevice
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_ProgressBar
