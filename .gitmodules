@@ -367,3 +367,12 @@
 [submodule "ports/nrf/boards/SAP6/frozen/CircuitPython_RM3100"]
 	path = ports/nrf/boards/SAP6/frozen/CircuitPython_RM3100
 	url = https://github.com/furbrain/CircuitPython_RM3100.git
+[submodule "ports/nrf/boards/SAP6/frozen/Adafruit_CircuitPython_Logging"]
+	path = ports/nrf/boards/SAP6/frozen/Adafruit_CircuitPython_Logging
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Logging.git
+[submodule "ports/nrf/boards/SAP6/frozen/CircuitPython_CaveBLE"]
+	path = ports/nrf/boards/SAP6/frozen/CircuitPython_CaveBLE
+	url = https://github.com/furbrain/CircuitPython_CaveBLE.git
+[submodule "ports/nrf/boards/SAP6/frozen/fruity_menu"]
+	path = ports/nrf/boards/SAP6/frozen/fruity_menu
+	url = https://github.com/furbrain/fruity_menu.git
